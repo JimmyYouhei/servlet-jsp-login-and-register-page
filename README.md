@@ -2,7 +2,7 @@
  
 ## Introduction 
 
-This project is my Funix 3 assignment using jsp and servlet to make a login and register page
+This project is my Funix 3 assignment using jsp and servlet to make a login and register pages
 
 ## version
 -	Java 12
